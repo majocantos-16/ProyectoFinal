@@ -8,7 +8,7 @@ Este proyecto tiene tres partes:
 
 1. ***Preprocesamiento de datos***
 
-***Entregable: ***
+***Entregable:***
 a. Un notebook con el EDA: se encontrara el preprocesamiento de datos, conclusiones de negocios y el codigo comentado.
 b. En la carpeta data se encontrara el dataset limpio.
 
